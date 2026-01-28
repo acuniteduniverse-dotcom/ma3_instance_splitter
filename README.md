@@ -26,8 +26,6 @@ pixel layouts vary.
 Example:
 Fixture 901 Thru 903.1 Thru 2.1 Thru 999
 
-yaml
-Copy code
 
 ---
 
@@ -55,7 +53,3 @@ a foundation for future advanced tools.
 If you find it useful, please star the repo or share it.
 
 ---
-
-## License
-
-MIT License — free to use, modify, and share.
