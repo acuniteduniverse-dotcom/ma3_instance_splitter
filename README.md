@@ -1,5 +1,5 @@
 # grandMA3 Instance Splitter
-
+[Download the User Manual (PDF)](Instance_Splitter_User_Manual.pdf)
 A free grandMA3 Lua plugin that creates clean, predictable groups from
 fixtures with subfixtures and pixel structures.
 
